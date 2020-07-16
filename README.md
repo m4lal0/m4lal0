@@ -1,7 +1,7 @@
 ### H3ll0! 👋
 
 <p align="center">
-<img src="images/m4lal0.jpg"
+<img src="https://github.com/m4lal0/m4lal0/raw/master/images/m4lal0.jpg"
 	alt="M4lal0"
 	width="800"
 	style="float: left; margin-right: 5px;" />
