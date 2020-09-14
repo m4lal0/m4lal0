@@ -7,7 +7,8 @@
 	style="float: left; margin-right: 5px;" />
 </p>
 <br>
-
+<p align="center">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/thehackingsage)](https://twitter.com/m4lal0)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&link=https://github.com/thehackingsage)](https://github.com/m4lal0)
 [![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=plastic&logo=codesandbox&logoColor=lightgreen&link=https://hackthebox.eu/profile/38608)](https://hackthebox.eu/profile/337020)
+</p>
