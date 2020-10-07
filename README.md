@@ -4,9 +4,8 @@
 <img src="https://github.com/m4lal0/m4lal0/raw/master/images/m4lal0.jpg"
 	alt="m4lal0"
 	width="1000"
-	style="float: left; margin-right: 5px;" />
+	style="float: left; margin-right: 7px;" />
 </p>
-<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/m4lal0)](https://twitter.com/m4lal0)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&link=https://github.com/m4lal0)](https://github.com/m4lal0)
