@@ -7,9 +7,10 @@
 	style="float: left; margin-right: 7px;" />
 </p>
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=hackster&logoColor=white&link=https://m4lal0.github.io)](https://m4lal0.github.io)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat&logo=blogger&logoColor=white&link=https://m4lal0.github.io/Blog)](https://m4lal0.github.io/Blog)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/m4lal0)](https://twitter.com/m4lal0)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/m4lal0)](https://github.com/m4lal0)
-[![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=flat&logo=hack-the-box&logoColor=lightgreen&link=https://hackthebox.eu/profile/337020)](https://hackthebox.eu/profile/337020)
-[![THM Badge](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/M4lal0)](https://tryhackme.com/p/M4lal0)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=hackster&logoColor=white&link=https://m4lal0.github.io)](https://m4lal0.github.io)
+[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white&link=https://m4lal0.github.io/Blog)](https://m4lal0.github.io/Blog)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/m4lal0)](https://twitter.com/m4lal0)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/m4lal0)](https://github.com/m4lal0)
+[![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&logoColor=lightgreen&link=https://hackthebox.eu/profile/337020)](https://hackthebox.eu/profile/337020)
+[![THM Badge](https://img.shields.io/badge/-TryHackMe-gray?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/M4lal0)](https://tryhackme.com/p/M4lal0)
+[![Profile-Views](https://komarev.com/ghpvc/?username=m4lal0&color=yellowgreen&style=for-the-badge)](https://komarev.com/ghpvc/?username=m4lal0)
