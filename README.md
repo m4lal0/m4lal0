@@ -5,7 +5,6 @@
 
 <p align="center">
 <a href="https://m4lal0.github.io"><img title="Portafolio" src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=hackster&logoColor=white&link=https://m4lal0.github.io"></a>
-<a href="https://m4lal0.github.io/Blog"><img title="Blog" src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white&link=https://m4lal0.github.io/Blog"></a>
 <a href="https://twitter.com/m4lal0"><img title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/m4lal0"></a>
 <a href="https://github.com/m4lal0"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/m4lal0"></a>
 <a href="https://hackthebox.eu/profile/337020"><img title="HTB" src="https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&logoColor=lightgreen&link=https://hackthebox.eu/profile/337020"></a>
@@ -64,7 +63,7 @@
 	alt="ITILv4"
 	width="45"
 	height="40"
-	style="float: center; margin-right: 5px;" />
+	style="float: center; margin-right: 2px;" />
 <img src="./images/CPHE.png"
 	alt="CPHE"
 	width=50"
