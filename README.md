@@ -14,6 +14,11 @@
 	alt="m4lal0"
 	width="1000"
 	style="float: center; margin-right: 5px;" />
+<img src="./images/OSCP.png"
+	alt="CEH"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 5px;" />
 <img src="./images/CEHPRACTICAL.png"
 	alt="CEH"
 	width="40"
