@@ -19,6 +19,11 @@
 	width="45"
 	height="40"
 	style="float: center; margin-right: 4px;" />
+<img src="./images/OSWP.png"
+	alt="CEH"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 4px;" />
 <img src="./images/CEHPRACTICAL.png"
 	alt="CEH"
 	width="40"
