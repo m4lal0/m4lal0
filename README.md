@@ -34,6 +34,11 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 4px;" />
+<img src="./images/CAPen.png"
+	alt="CAPen"
+	width="40"
+	height="40"
+	style="float: center; margin-right: 4px;" />
 <img src="./images/CMPen.png"
 	alt="CMPen"
 	width="40"
