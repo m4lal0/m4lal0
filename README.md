@@ -64,6 +64,16 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 4px;" />
+<img src="./images/CAPC.png"
+	alt="CAPC"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 4px;" />
+<img src="./images/FCA.png"
+	alt="FCA"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 4px;" />
 <img src="./images/FCF.png"
 	alt="FCF"
 	width="45"
@@ -82,11 +92,6 @@
 <img src="./images/ITILv4.png"
 	alt="ITILv4"
 	width="45"
-	height="40"
-	style="float: center; margin-right: 4px;" />
-<img src="./images/CPHE.png"
-	alt="CPHE"
-	width=50"
 	height="40"
 	style="float: center; margin-right: 4px;" />
 </p>
