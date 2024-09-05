@@ -64,7 +64,7 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 4px;" />
-<img src="./images/CAPC.png"
+<img src="./images/CAPC2.png"
 	alt="CAPC"
 	width="45"
 	height="40"
