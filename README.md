@@ -99,9 +99,4 @@
 	width="45"
 	height="40"
 	style="float: center; margin-right: 4px;" />
-<img src="./images/ITILv4.png"
-	alt="ITILv4"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 4px;" />
 </p>
