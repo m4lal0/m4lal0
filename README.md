@@ -39,6 +39,11 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 2px;" />
+<img src="./images/C-AILMPen.png"
+	alt="C-AI/LMPen"
+	width="40"
+	height="40"
+	style="float: center; margin-right: 2px;" />
 <img src="./images/CNPen.png"
 	alt="CNPen"
 	width="40"
