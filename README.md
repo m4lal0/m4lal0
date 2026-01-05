@@ -79,6 +79,11 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 2px;" />
+<img src="./images/C-APIPen.png"
+	alt="C-APIPen"
+	width="40"
+	height="40"
+	style="float: center; margin-right: 2px;" />
 <img src="./images/EthicalHackingFoundation.png"
 	alt="EthicalHackingFoundation"
 	width="40"
