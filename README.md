@@ -38,6 +38,11 @@
 	alt="eCPPTv3"
 	width="45"
 	height="40"
+	style="float: center; margin-right: 2px;" />
+<img src="./images/eWPTX-v3.png"
+	alt="eWPTXv3"
+	width="45"
+	height="40"
 	style="float: center; margin-right: 2px;" />	
 <img src="./images/eWPT-v2.png"
 	alt="eWPT"
