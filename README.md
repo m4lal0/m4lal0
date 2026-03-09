@@ -29,6 +29,11 @@
 	width="45"
 	height="40"
 	style="float: center; margin-right: 2px;" />
+<img src="./images/BSCP.svg"
+	alt="BSCP"
+	width="40"
+	height="40"
+	style="float: center; margin-right: 2px;" />
 <img src="./images/CEHPRACTICAL.png"
 	alt="CEH"
 	width="40"
