@@ -39,6 +39,11 @@
 	width="40"
 	height="40"
 	style="float: center; margin-right: 2px;" />
+<img src="./images/CEH.png"
+	alt="CEH"
+	width="40"
+	height="40"
+	style="float: center; margin-right: 2px;" />
 <img src="./images/eCPPT-v3.png"
 	alt="eCPPTv3"
 	width="45"
