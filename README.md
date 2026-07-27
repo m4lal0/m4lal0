@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
-<p align="center">
+<p align="left">
 <a href="https://m4lal0.github.io"><img title="Portafolio" src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=hackster&logoColor=white&link=https://m4lal0.github.io"></a>
 <a href="https://x.com/m4lal0"><img title="Twitter" src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/m4lal0"></a>
 <a href="https://github.com/m4lal0"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/m4lal0"></a>
@@ -129,13 +129,18 @@
 	width="45"
 	height="40"
 	style="float: center; margin-right: 2px;" />
-<img src="./images/FCA.png"
-	alt="FCA"
+<img src="./images/NSE1.png"
+	alt="NSE1"
 	width="45"
 	height="40"
 	style="float: center; margin-right: 2px;" />
-<img src="./images/FCF.png"
-	alt="FCF"
+<img src="./images/NSE2.png"
+	alt="NSE2"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 2px;" />
+<img src="./images/NSE3.png"
+	alt="NSE3"
 	width="45"
 	height="40"
 	style="float: center; margin-right: 2px;" />
