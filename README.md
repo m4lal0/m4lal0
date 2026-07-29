@@ -1,157 +1,21 @@
 <h2 align="center">
-  Welcome to M4lal0's Github!
- <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
+	Welcome to M4lal0's Github!
+	<img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
-<p align="left">
-<a href="https://m4lal0.github.io"><img title="Portafolio" src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=hackster&logoColor=white&link=https://m4lal0.github.io"></a>
-<a href="https://x.com/m4lal0"><img title="Twitter" src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/m4lal0"></a>
-<a href="https://github.com/m4lal0"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/m4lal0"></a>
-<a href="https://app.hackthebox.com/public/users/337020"><img title="HTB" src="https://img.shields.io/badge/-HackTheBox-darkgreen?style=for-the-badge&logo=hack-the-box&logoColor=lightgreen&link=https://app.hackthebox.com/public/users/337020"></a>
-<a href="https://tryhackme.com/p/M4lal0"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/M4lal0"></a>
-<a href="https://komarev.com/ghpvc/?username=m4lal0"><img title="Profile-Views" src="https://komarev.com/ghpvc/?username=m4lal0&color=blue&style=for-the-badge"></a>
-<img src="https://github.com/m4lal0/m4lal0/raw/master/images/m4lal0.jpg"
-	alt="m4lal0"
-	width="1000"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/OSCP.png"
-	alt="OSCP"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/OSWA.png"
-	alt="OSWA"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/OSWP.png"
-	alt="OSWP"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/BSCP.svg"
-	alt="BSCP"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CEHMASTER.png"
-	alt="CEH-MASTER"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CEH.png"
-	alt="CEH"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CEHPRACTICAL.png"
-	alt="CEH-PRACTICAL"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/eCPPT-v3.png"
-	alt="eCPPTv3"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/eWPTX-v3.png"
-	alt="eWPTXv3"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />	
-<img src="./images/eWPT-v2.png"
-	alt="eWPT"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/eMAPT-v2.png"
-	alt="eMAPT"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/eJPT-v2.png"
-	alt="eJPT"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/C-AIMLPen.png"
-	alt="C-AI/MLPen"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CNPen.png"
-	alt="CNPen"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CAPen.png"
-	alt="CAPen"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CMPen.png"
-	alt="CMPen"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/C-APIPen.png"
-	alt="C-APIPen"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CRTA.png"
-	alt="CRTA"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/C3SA.png"
-	alt="C3SA"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/WEB-RTA.png"
-	alt="WEB-RTA"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/API-RTA.png"
-	alt="API-RTA"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/EthicalHackingFoundation.png"
-	alt="Ethical-Hacking-Foundation"
-	width="40"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/CAPC2.png"
-	alt="CAPC"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/NSE1.png"
-	alt="NSE1"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/NSE2.png"
-	alt="NSE2"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/NSE3.png"
-	alt="NSE3"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/LPI-Essentials.png"
-	alt="LPI-Essentials"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
-<img src="./images/PCEP.png"
-	alt="PCEP"
-	width="45"
-	height="40"
-	style="float: center; margin-right: 2px;" />
+<p align="center">
+	<a href="https://m4lal0.github.io"><img title="Portafolio" src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=hackster&logoColor=white&link=https://m4lal0.github.io"></a>
+	<a href="https://x.com/m4lal0"><img title="Twitter" src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/m4lal0"></a>
+	<a href="https://github.com/m4lal0"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/m4lal0"></a>
+	<a href="https://app.hackthebox.com/public/users/337020"><img title="HTB" src="https://img.shields.io/badge/-HackTheBox-darkgreen?style=for-the-badge&logo=hack-the-box&logoColor=lightgreen&link=https://app.hackthebox.com/public/users/337020"></a>
+	<a href="https://tryhackme.com/p/M4lal0"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/M4lal0"></a>
+	<a href="https://komarev.com/ghpvc/?username=m4lal0"><img title="Profile-Views" src="https://komarev.com/ghpvc/?username=m4lal0&color=blue&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+	<img src="https://github.com/m4lal0/m4lal0/raw/master/images/m4lal0.jpg" alt="m4lal0" width="1000" />
+</p>
+
+<p align="center">
+	<img src="https://github.com/m4lal0/m4lal0/raw/master/images/OSCP.png" alt="OSCP" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/OSWA.png" alt="OSWA" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/OSWP.png" alt="OSWP" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/BSCP.svg" alt="BSCP" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CEHMASTER.png" alt="CEH-MASTER" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CEH.png" alt="CEH" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CEHPRACTICAL.png" alt="CEH-PRACTICAL" width="40" height="40" />&nbsp; <img src="https://github.com/m4lal0/m4lal0/raw/master/images/eCPPT-v3.png" alt="eCPPTv3" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/eWPTX-v3.png" alt="eWPTXv3" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/eWPT-v2.png" alt="eWPT" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/eMAPT-v2.png" alt="eMAPT" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/eJPT-v2.png" alt="eJPT" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/C-AIMLPen.png" alt="C-AI/MLPen" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CNPen.png" alt="CNPen" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CAPen.png" alt="CAPen" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CMPen.png" alt="CMPen" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/C-APIPen.png" alt="C-APIPen" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CRTA.png" alt="CRTA" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/C3SA.png" alt="C3SA" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/WEB-RTA.png" alt="WEB-RTA" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/API-RTA.png" alt="API-RTA" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/EthicalHackingFoundation.png" alt="Ethical-Hacking-Foundation" width="40" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/CAPC2.png" alt="CAPC" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/NSE1.png" alt="NSE1" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/NSE2.png" alt="NSE2" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/NSE3.png" alt="NSE3" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/LPI-Essentials.png" alt="LPI-Essentials" width="45" height="40" />&nbsp;<img src="https://github.com/m4lal0/m4lal0/raw/master/images/PCEP.png" alt="PCEP" width="45" height="40" />&nbsp;
 </p>
